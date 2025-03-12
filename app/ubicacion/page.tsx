@@ -29,11 +29,11 @@ export default function UbicacionPage() {
             </h2>
             <ul className="space-y-2 text-gray-700">
               <li>
-                <span className="font-medium">Lunes a Viernes:</span> 10:00 -
-                19:00
+                <span className="font-medium">Lunes a Viernes:</span> 9:30 -
+                20:00
               </li>
               <li>
-                <span className="font-medium">Sábados:</span> 10:00 - 18:00
+                <span className="font-medium">Sábados:</span> 9:00 - 19:00
               </li>
               <li>
                 <span className="font-medium">Domingos y Feriados:</span>{" "}
@@ -47,7 +47,10 @@ export default function UbicacionPage() {
             <div className="space-y-4 text-gray-700">
               <div>
                 <h3 className="font-medium mb-2">En transporte público:</h3>
-                <p>Colectivos: 343, 60, 71 (Av. Santa Fe)</p>
+                <p>
+                  Colectivos: 9, 21, 29, 60, 68, 152, 161, 203, 314, 343.
+                </p>
+                <p>Estacion de tren de MARTINEZ (Linea Mitre) a 500m.</p>
               </div>
 
               <div>

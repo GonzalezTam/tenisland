@@ -24,14 +24,14 @@ export default function HeroSection() {
               className="px-6 py-3 bg-[#0B315B] text-white rounded-md hover:bg-blue-800 transition focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-opacity-50"
               aria-label="Ver ubicación de la tienda"
             >
-              Visítanos
+              Visitanos
             </Link>
             <Link
               href="/contacto"
               className="px-6 py-3 border border-[#0B315B] text-[#0B315B] rounded-md hover:bg-blue-50 transition focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-opacity-50"
               aria-label="Contactar a TenisLand"
             >
-              Contáctanos
+              Contactanos
             </Link>
           </div>
         </div>

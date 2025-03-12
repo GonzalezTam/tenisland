@@ -95,7 +95,7 @@ export default function ContactoPage() {
                 </svg>
                 <div>
                   <p className="font-medium">Dirección</p>
-                  <p>Av. Ejemplo 1234, San Isidro</p>
+                  <p>Av. Santa Fe 1676, San Isidro</p>
                   <Link
                     href="/ubicacion"
                     className="text-[#0B315B] hover:underline transition"
